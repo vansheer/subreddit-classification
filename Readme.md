@@ -1,6 +1,6 @@
 # Purposes
 This is a practice project for using NLP. <br>
-Since NLP can be used for text classification, I decided to choose two somewhere similar subreddits from Reddit and see if posts from either subreddit can be correctly classified. <br>
+Since NLP can be used for text classification, I decided to choose two somewhat similar subreddits from Reddit and see if posts from either subreddit can be correctly classified. <br>
 I chose these two subreddits ([/r/crossfit](https://www.reddit.com/r/crossfit) and [/r/powerlifting](https://www.reddit.com/r/powerlifting)) because from my years of crossfit training I know the two training styles share a lot in common, but have different focuses at the same time. so I wanted to see if they can be classfied and how.
 
 
